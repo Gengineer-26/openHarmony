@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "物理力学沙盒模拟器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "物理涂鸦沙盒 - 力学与运动学模拟"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "物理涂鸦沙盒"
+    },
+    {
+      "name": "distributed_permission_reason",
+      "value": "用于在多设备间同步账号数据"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "用于获取网络数据和加载在线图片资源"
+    }
+  ]
+}

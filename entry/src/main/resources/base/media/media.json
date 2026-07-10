@@ -1,0 +1,10 @@
+{
+  "image": {
+    "icon": {
+      "source": "icon.png"
+    },
+    "startIcon": {
+      "source": "icon.png"
+    }
+  }
+}
