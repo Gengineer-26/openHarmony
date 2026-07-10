@@ -6,7 +6,7 @@
 [![HarmonyOS](https://img.shields.io/badge/HarmonyOS-NEXT-blue?logo=harmonyos)](https://developer.huawei.com/consumer/cn/harmonyos/)
 [![SDK](https://img.shields.io/badge/SDK-6.1.0(23)-brightgreen)](https://developer.huawei.com/consumer/cn/harmonyos/)
 [![Language](https://img.shields.io/badge/Language-ArkTS-3178C6?logo=typescript)](https://developer.huawei.com/consumer/cn/arkts/)
-[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/Gengineer-26/openHarmony?style=social)](https://github.com/Gengineer-26/openHarmony)
 
 **基于 HarmonyOS 的 2D 物理仿真与创作工具**
@@ -129,7 +129,9 @@ cp build-profile.json5.example build-profile.json5
 
 ## 📄 License
 
-本项目基于 [MIT License](./LICENSE) 开源。
+本项目基于 [Apache License 2.0](./LICENSE) 开源。
+
+> 本项目基于 [OpenHarmony](https://gitee.com/openharmony)（Apache 2.0）和 [Box2D](https://box2d.org/)（MIT）构建。
 
 ---
 
